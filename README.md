@@ -161,7 +161,7 @@ streamlit run app.py
 
 ## Demo Video
 
-- 2–3 minute project demo: https://www.loom.com/share/acc27aa088254d258194f867e985f60d
+- 2–3 minute project demo: https://drive.google.com/file/d/1Iw-RoB5Skc-KKm6WE_mu_CNgdfCMPruw/view?usp=sharing
 
 ---
 
