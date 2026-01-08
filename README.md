@@ -131,7 +131,7 @@ The project includes a **Streamlit-based web app** that allows users to:
 
 ---
 
-## ▶️ Steps to Run the Project Locally
+## Steps to Run the Project Locally
 
 ### 1. Clone the Repository
 ```bash
